@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Uitoux_interview_test</string>
+    <string name="title_notes">Kindly ensure the following ASP details</string>
+    <string name="name">Mr.John Doe</string>
+    <string name="txt_address">109 Athipalayam Road, \n RamaKrishnapuram,</string>
+    <string name="label_address">Address</string>
+    <string name="Chinnavedampatti">Chinnavedampatti</string>
+    <string name="label_location">Location</string>
+    <string name="coimbatore">Coimbatore</string>
+    <string name="lb_district">District</string>
+    <string name="tamilnadu">Tamil Nadu</string>
+    <string name="lb_state">State</string>
+    <string name="txt_pincode">641049</string>
+    <string name="lb_pincode">Pincode</string>
+    <string name="numb1">+91 99999 00000</string>
+    <string name="lb_contact1">Contact No1</string>
+    <string name="lb_contact2">Contact No2</string>
+    <string name="service_details">Service Details</string>
+    <string name="mech">Mechanical</string>
+    <string name="custody">Custody</string>
+    <string name="lati">Latitude &amp; Longitude</string>
+    <string name="bank_details">Bank Details</string>
+    <string name="acc_no">Account No</string>
+    <string name="lb_bank">Bank Name</string>
+    <string name="bank">Indian Overseas Bank</string>
+    <string name="branch_name">Branch Name</string>
+    <string name="ifsc">IFSC Code</string>
+    <string name="acc_type">Account Type</string>
+    <string name="pan">PAN No</string>
+    <string name="gst_no">GST Reg No</string>
+    <string name="gst_date">GST Reg Date</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+</resources>
